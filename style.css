@@ -4,15 +4,14 @@
 
 
     #header {
-width: 60%;
-height: 20%;
-float: center;
-margin: 20px;
-padding: 15px;
-background-color: #D3D3D3;
-
+    width: 60%;
+    height: 20%;
+    float: center;
+    margin: 20px;
+    padding: 15px;
+    background-color: #D3D3D3;
 }
-#nav {
+    #nav {
     width: 60%;
     height: 20%;
     float: center;
@@ -20,8 +19,7 @@ background-color: #D3D3D3;
     padding: 5px;
     background-color: #D3D3D3;
 }
-
-#section {
+    #section {
     width: 30%;
     height: 25%;
     float: left;
@@ -31,7 +29,7 @@ background-color: #D3D3D3;
 
 }    
 
-#aside {
+    #aside {
     width: 30%;
     height: 25%;
     float: right;
@@ -41,7 +39,7 @@ background-color: #D3D3D3;
 
 }
 
-#footer {
+    #footer {
     width: 60%;
     height: 20%;
     clear: both;

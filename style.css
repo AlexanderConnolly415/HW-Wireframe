@@ -1,11 +1,11 @@
     body {
-        background-color:#777;
+    background-color:#777;
 }
 
 
     #header {
     width: 60%;
-    height: 20%;
+    height: 25%;
     float: center;
     margin: 20px;
     padding: 15px;
@@ -13,37 +13,37 @@
 }
     #nav {
     width: 60%;
-    height: 20%;
+    height: 25%;
     float: center;
     margin: 20px;
-    padding: 5px;
+    padding: 15px;
     background-color: #D3D3D3;
 }
     #section {
-    width: 30%;
+    width: 25%;
     height: 25%;
     float: left;
     margin: 5px;
-    padding: 100px;
+    padding: 50px;
     background-color: #D3D3D3;
 
 }    
 
     #aside {
-    width: 30%;
+    width: 25%;
     height: 25%;
-    float: right;
+    float: left;
     margin: 5px;
-    padding: 100px;
+    padding: 50px;
     background-color: #D3D3D3;
 
 }
 
     #footer {
     width: 60%;
-    height: 20%;
+    height: 25%;
     clear: both;
-    margin: 200px;
-    padding: 50px;
+    margin: 20px;
+    padding: 15px;
     background-color: #D3D3D3;
 }

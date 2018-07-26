@@ -1,7 +1,12 @@
     body {
     background-color:#777;
-}
+    }
 
+    .box {
+        width: 20%;
+        border: 1px green;
+        background-color #777;
+    }
 
     #header {
     width: 60%;
